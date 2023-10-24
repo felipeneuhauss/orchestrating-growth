@@ -1,0 +1,9 @@
+[submodule "ui-app"]
+	path = ui-app
+	url = https://github.com/felipeneuhauss/og-ui-app
+[submodule "catalog-app"]
+	path = catalog-app
+	url = https://github.com/felipeneuhauss/og-catalog-app
+[submodule "main-app"]
+	path = main-app
+	url = https://github.com/felipeneuhauss/og-main-app
